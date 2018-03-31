@@ -1,6 +1,10 @@
 [
 	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line.sublime-macro"} },
+	//delete this line: them dong vao dong duoi.
 	{ "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line Before.sublime-macro"} },
+	//delete this line: them dong vao dong tren.
 	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+	//reindent trang html.
 	{ "keys": ["shift+space"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+	//delete this line: dua con tro ra ngoai dau "".
 ]
