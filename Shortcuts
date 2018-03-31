@@ -1,0 +1,6 @@
+[
+	{ "keys": ["shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line.sublime-macro"} },
+	{ "keys": ["ctrl+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line Before.sublime-macro"} },
+	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["shift+space"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+]
